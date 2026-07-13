@@ -9,9 +9,6 @@ CS master's student at the University of Tampere. My projects:
 **[ambientRobo](https://github.com/Ville-prog/ambientRobo)** ([live](https://ambientrobo.vercel.app))
 Describe a sound in plain text and it plays generated ambient/techno live in the browser. An LLM writes the music as [Strudel](https://strudel.cc) code. Python/FastAPI backend, Llama 3.3 via Groq.
 
-**[CSinvestmentTracker](https://github.com/Ville-prog/CSinvestmentTracker)** ([live](https://csinvestmenttracker.vercel.app))
-Tracks a CS2 skin portfolio the way a real investment tracker would: daily price history, per-item cost basis, benchmarked against the S&P 500. A nightly job collects prices from the Steam market. Java/Spring Boot backend, React frontend.
-
 **[imageConvert](https://github.com/Ville-prog/imageConvert)**
 Chrome extension that converts and upscales images straight from web pages, with three upscaling methods to choose from, classic interpolation up to a neural model. JavaScript, with a small Python/Flask server for the AI path.
 
