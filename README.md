@@ -2,7 +2,7 @@ CS master's student at the University of Tampere. My projects:
 
 ## SetAtlas
 
-[setatlas.app](https://setatlas.app) is an interactive world map of DJ sets: 150,000+ sets across 1,262 cities, streamable right in the browser. You browse music by place instead of by search, so it surfaces scenes and cities you would never have typed into a search box. The source is private. Next.js/React frontend with a MapLibre GL map, Fastify + PostgreSQL backend, audio via Mixcloud.
+[setatlas.net](https://setatlas.net) is an interactive world map of DJ sets: 150,000+ sets across 1,262 cities, streamable right in the browser. You browse music by place instead of by search, so it surfaces scenes and cities you would never have typed into a search box. The source is private. Next.js/React frontend with a MapLibre GL map, Fastify + PostgreSQL backend, audio via Mixcloud.
 
 ## Repos
 
